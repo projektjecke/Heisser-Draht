@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+/////                                                                                 /////
+/////                                 Projekteecke.de                                 /////
+/////                               Projekt: HeisserDraht                             /////
+/////                             Projektstart: 10.01.2017                            /////
+/////                                                                                 /////
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////
+
+// Description:
+/* 
+ * This code is for an Arduino UNO. The Project is a child game where you have to
+ * bring a metal ring thrue a metal wire. If the ring touch the wire, you will hear a
+ * noise. Additional the will count the points and provide different player.
+ */
+
+// Bibliotheken
+
+
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
